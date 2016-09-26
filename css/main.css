@@ -1,0 +1,118 @@
+/* inicio 1*/
+.navbar{
+	background-color: #E30505;
+	color: #FAF6BB;
+}
+
+.navbar-brand{
+	color: #FAF6BB;
+}
+
+ul li a{
+	color: #FAF6BB;
+}
+
+.icon-bar{
+	color: #FAF6BB;
+}
+
+
+/* banner 2*/
+
+header{
+	background-image: url(../img/creamy.jpg);
+	background-position: 100%;
+	max-width: 100%;
+	margin-top: -25px;
+	
+}
+
+.container-fluid{
+	background-color: rgba(0, 0, 0, 0.4);
+	padding: 8% 0;
+}
+
+.title-page{
+	text-align: center;
+	margin-top: 100px;
+}
+
+.navbar-toggle{
+	border: 1px solid #faf6bb;
+}
+
+.icon-bar{
+	border: 1px solid #faf6bb;
+}
+
+/* caja 3*/
+
+.crema{
+	background-color: #FAF6BB;
+}
+
+.img1{
+	width: 90%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 50px;
+}
+
+.titulo{
+	margin-top: 100px;
+}
+
+h2{
+	margin-bottom: 25px;
+}
+
+.titulo h2 p{
+	color: #E30505;
+}
+
+/* caja 4*/
+
+.red{
+	background-color: #E30505;
+	color: #FAF6BB;
+}
+
+.titulo h1 p{
+	margin-bottom: 20px;
+}
+
+.text.center{
+	padding-bottom: 80px;
+}
+
+/* caja 5*/
+.iconos{
+	background-color:#FAF6BB; 
+}
+
+.box{
+	color:#E30505;
+	text-align: center;
+}
+
+.box{
+	padding-top: 4%;	
+	padding-bottom: 3%;
+}
+
+.glyphicon{
+	padding: 10px;
+
+}
+
+/* footer*/
+footer{
+	background-color:#E30505;
+	color:#FAF6BB;
+	width: 100%;
+	height: 80px; 
+	padding-left:5%;
+	padding-top: 2%;
+		
+}
+
